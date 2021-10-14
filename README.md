@@ -8,4 +8,3 @@ Also known as ICe or Hielito
 - ⚙️ I use daily .js, .html, .css , 
 - 🌱 I’m currently learning MERN Stack
 - 💬 I love design, web development, UX/UI
-- 🤔 I’m looking for help with ...
