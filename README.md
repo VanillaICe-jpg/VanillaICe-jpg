@@ -1,4 +1,4 @@
-![Toronto Canda 2018](/bannr.png)
+![Toronto Canda 2018](/banner.png)
 ### Hi there 👋
 
 ## I am Israel Cruz Morales.
