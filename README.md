@@ -6,5 +6,5 @@ Also known as ICe or Hielito
 
 - 🔭 I’m currently studiyin Software Engineer on Facultad de Matemáticas UADY
 - ⚙️ I use daily .js, .html, .css , 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Everyday improving My FullStack abilities!
 - 💬 I love design, web development, UX/UI
